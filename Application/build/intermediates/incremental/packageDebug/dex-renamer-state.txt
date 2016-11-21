@@ -1,0 +1,7 @@
+#Mon Nov 21 10:44:57 CET 2016
+base.0=C\:\\Users\\Admin\\AndroidStudioProjects\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0683340685d1916de7e8b03ffe8c2473a9147edb
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Admin\\AndroidStudioProjects\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4fbc2ba728aaaebf4b76cc63c994d8cc3d7e8541\\classes.dex
+base.1=C\:\\Users\\Admin\\AndroidStudioProjects\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4fbc2ba728aaaebf4b76cc63c994d8cc3d7e8541
+file.0=C\:\\Users\\Admin\\AndroidStudioProjects\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0683340685d1916de7e8b03ffe8c2473a9147edb\\classes.dex
